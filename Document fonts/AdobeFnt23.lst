@@ -1,0 +1,214 @@
+%!Adobe-FontList 1.23
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Dinreg
+FamilyName:Dinreg
+StyleName:Regular
+FullName:Dinreg Regular
+MenuName:Dinreg
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\chany\Documents\GVC\Media Team\Weekly-Handout\Indesign template\Bulletins-Template_v101\Document fonts\Dinreg.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:33744
+FileModTime:1649785890
+WeightClass:5
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Dinreg Regular
+NameArray:0,Win,1,Dinreg
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NanumGothicOTF
+FamilyName:NanumGothicOTF
+StyleName:Regular
+FullName:NanumGothicOTF
+MenuName:나눔고딕OTF
+StyleBits:0
+FamilyNameNative:나눔고딕OTF
+StyleNameNative:Regular
+FullNameNative:나눔고딕OTF
+WritingScript:Korean
+OutlineFileName:C:\Users\chany\Documents\GVC\Media Team\Weekly-Handout\Indesign template\Bulletins-Template_v101\Document fonts\NanumGothic.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2363960
+FileModTime:1649785888
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumGothicOTF
+NameArray:3,Mac,4,나눔고딕OTF
+NameArray:0,Win,1,NanumGothicOTF
+NameArray:3,Win,1,나눔고딕OTF
+NameArray:0,Win,16,NanumGothicOTF
+NameArray:3,Win,16,나눔고딕OTF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NanumGothicOTFBold
+FamilyName:NanumGothicOTF
+StyleName:Bold
+FullName:NanumGothicOTF Bold
+MenuName:나눔고딕OTF
+StyleBits:2
+FamilyNameNative:나눔고딕OTF
+StyleNameNative:Bold
+FullNameNative:나눔고딕OTF Bold
+WritingScript:Korean
+OutlineFileName:C:\Users\chany\Documents\GVC\Media Team\Weekly-Handout\Indesign template\Bulletins-Template_v101\Document fonts\NanumGothicBold.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2481476
+FileModTime:1649785888
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumGothicOTF Bold
+NameArray:3,Mac,4,나눔고딕OTF Bold
+NameArray:3,Mac,18,나눔고딕OTF Bold
+NameArray:0,Win,1,NanumGothicOTF
+NameArray:3,Win,1,나눔고딕OTF
+NameArray:0,Win,16,NanumGothicOTF
+NameArray:3,Win,16,나눔고딕OTF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NanumGothicOTFExtraBold
+FamilyName:NanumGothicOTF
+StyleName:ExtraBold
+FullName:NanumGothicOTF ExtraBold
+MenuName:나눔고딕OTF ExtraBold
+StyleBits:0
+FamilyNameNative:나눔고딕OTF
+StyleNameNative:ExtraBold
+FullNameNative:나눔고딕OTF ExtraBold
+WritingScript:Korean
+OutlineFileName:C:\Users\chany\Documents\GVC\Media Team\Weekly-Handout\Indesign template\Bulletins-Template_v101\Document fonts\NanumGothicExtraBold.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:2407456
+FileModTime:1649785888
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumGothicOTF ExtraBold
+NameArray:3,Mac,4,나눔고딕OTF ExtraBold
+NameArray:0,Win,1,NanumGothicOTF ExtraBold
+NameArray:3,Win,1,나눔고딕OTF ExtraBold
+NameArray:0,Win,16,NanumGothicOTF
+NameArray:3,Win,16,나눔고딕OTF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NanumMyeongjoOTF
+FamilyName:NanumMyeongjoOTF
+StyleName:Regular
+FullName:NanumMyeongjoOTF
+MenuName:나눔명조OTF
+StyleBits:0
+FamilyNameNative:나눔명조OTF
+StyleNameNative:Regular
+FullNameNative:나눔명조OTF
+WritingScript:Korean
+OutlineFileName:C:\Users\chany\Documents\GVC\Media Team\Weekly-Handout\Indesign template\Bulletins-Template_v101\Document fonts\NanumMyeongjo.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1479472
+FileModTime:1649785888
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumMyeongjoOTF
+NameArray:3,Mac,4,나눔명조OTF
+NameArray:0,Win,1,NanumMyeongjoOTF
+NameArray:3,Win,1,나눔명조OTF
+NameArray:0,Win,16,NanumMyeongjoOTF
+NameArray:3,Win,16,나눔명조OTF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NanumMyeongjoOTFBold
+FamilyName:NanumMyeongjoOTF
+StyleName:Bold
+FullName:NanumMyeongjoOTF Bold
+MenuName:나눔명조OTF
+StyleBits:2
+FamilyNameNative:나눔명조OTF
+StyleNameNative:Bold
+FullNameNative:나눔명조OTF Bold
+WritingScript:Korean
+OutlineFileName:C:\Users\chany\Documents\GVC\Media Team\Weekly-Handout\Indesign template\Bulletins-Template_v101\Document fonts\NanumMyeongjoBold.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1774084
+FileModTime:1649785888
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumMyeongjoOTF Bold
+NameArray:3,Mac,4,나눔명조OTF Bold
+NameArray:3,Mac,18,나눔명조OTF Bold
+NameArray:0,Win,1,NanumMyeongjoOTF
+NameArray:3,Win,1,나눔명조OTF
+NameArray:0,Win,16,NanumMyeongjoOTF
+NameArray:3,Win,16,나눔명조OTF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NanumMyeongjoOTFExtraBold
+FamilyName:NanumMyeongjoOTF
+StyleName:ExtraBold
+FullName:NanumMyeongjoOTF ExtraBold
+MenuName:나눔명조OTF ExtraBold
+StyleBits:0
+FamilyNameNative:나눔명조OTF
+StyleNameNative:ExtraBold
+FullNameNative:나눔명조OTF ExtraBold
+WritingScript:Korean
+OutlineFileName:C:\Users\chany\Documents\GVC\Media Team\Weekly-Handout\Indesign template\Bulletins-Template_v101\Document fonts\NanumMyeongjoExtraBold.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1968996
+FileModTime:1649785888
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,NanumMyeongjoOTF ExtraBold
+NameArray:3,Mac,4,나눔명조OTF ExtraBold
+NameArray:0,Win,1,NanumMyeongjoOTF ExtraBold
+NameArray:3,Win,1,나눔명조OTF ExtraBold
+NameArray:0,Win,16,NanumMyeongjoOTF
+NameArray:3,Win,16,나눔명조OTF
+%EndFont
+
