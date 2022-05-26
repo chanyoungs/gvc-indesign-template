@@ -14,5 +14,5 @@ jobs:
         git config --global user.email "chanyoungs@gmail.com"
         git config --global user.name "chanyoungs"
         git checkout download
-        cd ..
-        ls -a  
+        git merge main
+        git push
