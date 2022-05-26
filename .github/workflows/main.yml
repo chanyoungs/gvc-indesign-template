@@ -15,7 +15,6 @@ jobs:
     - run: |
         git config --global user.email "chanyoungs@gmail.com"
         git config --global user.name "chanyoungs"
-        git pull origin/download
         git checkout download
         git merge main
         git push
