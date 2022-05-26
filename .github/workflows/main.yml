@@ -19,6 +19,7 @@ jobs:
         git checkout download
         rm -r "Bulletins Templates"
         \cp -Rf "../output" "."
+        ls -a
         timestamp=$(cat "timestamp.txt")
         git add .
         git commit -m "${timestamp}"
