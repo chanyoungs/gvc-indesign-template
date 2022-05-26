@@ -24,4 +24,4 @@ with open("../output/timestamp.txt", "w") as f:
 
 directory = "../output/Bulletins Templates/"
 os.makedirs(directory)
-shutil.copyfile(latest_path, directory+latest_path)
+shutil.copyfile(latest_path, directory)
