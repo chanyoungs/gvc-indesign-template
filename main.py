@@ -13,7 +13,7 @@ for path in glob.glob("./Bulletins Templates/*.indd"):
         latest_version = version
         latest_path = path
 
-os.makedirs("../output", exist_ok=True)
+os.makedirs("../output")
 # Write version file
 with open("../output/version.txt", "w") as f:
     f.write(str(latest_version))
@@ -23,5 +23,5 @@ with open("../output/timestamp.txt", "w") as f:
     f.write(str(datetime.datetime.now()))
 
 directory = "../output/Bulletins Templates/"
-os.makedirs(directory, exist_ok=True)
+os.makedirs(directory)
 shutil.copyfile(latest_path, directory+latest_path)
