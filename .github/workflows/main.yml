@@ -16,5 +16,6 @@ jobs:
         git config --global user.email "chanyoungs@gmail.com"
         git config --global user.name "chanyoungs"
         git checkout download
-        git merge main
-        git push
+        python -c 'print("Hello World")'
+        # git merge main
+        # git push
