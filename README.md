@@ -1,1 +1,0 @@
-# gvc-indesign-template
