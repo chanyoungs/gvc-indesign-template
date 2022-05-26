@@ -13,6 +13,7 @@ for path in glob.glob("./Bulletins Templates/*.indd"):
         latest_version = version
         latest_path = path
 
+os.makedirs("../output", exist_ok=True)
 # Write version file
 with open("../output/version.txt", "w") as f:
     f.write(str(latest_version))
