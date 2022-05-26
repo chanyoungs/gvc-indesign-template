@@ -10,9 +10,12 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
     - uses: actions/checkout@v2        
+      with:
+        fetch-depth: 0
     - run: |
         git config --global user.email "chanyoungs@gmail.com"
         git config --global user.name "chanyoungs"
+        git pull origin/download
         git checkout download
         git merge main
         git push
