@@ -2,6 +2,7 @@ import datetime
 import glob
 import re
 import os
+import shutil
 
 # Find latest version
 latest_path = ""
@@ -13,15 +14,13 @@ for path in glob.glob("./Bulletins Templates/*.indd"):
         latest_path = path
 
 # Write version file
-with open("version.txt", "w") as f:
+with open("../output/version.txt", "w") as f:
     f.write(str(latest_version))
 
 # Write timestamp just in case of no changes for git commit
-with open("timestamp.txt", "w") as f:
+with open("../output/timestamp.txt", "w") as f:
     f.write(str(datetime.datetime.now()))
 
-# Delete older files
-for path in glob.glob("./Bulletins Templates/*.indd"):
-    version = int(re.findall("\d+", path)[0])
-    if version < latest_version:
-        os.remove(path)
+directory = "../output/Bulletins Templates/"
+os.makedirs(directory, exist_ok=True)
+shutil.copyfile(latest_path, directory+latest_path)

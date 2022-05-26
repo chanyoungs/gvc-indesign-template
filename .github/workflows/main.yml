@@ -13,14 +13,13 @@ jobs:
       with:
         fetch-depth: 0
     - run: |
-        cd ..
-        ls -a
-        # git config --global user.email "chanyoungs@gmail.com"
-        # git config --global user.name "chanyoungs"
-        # git checkout download
-        # git merge main
-        # python main.py
-        # timestamp=$(cat "timestamp.txt")
-        # git add .
-        # git commit -m "${timestamp}"
-        # git push
+        git config --global user.email "chanyoungs@gmail.com"
+        git config --global user.name "chanyoungs"
+        python main.py
+        git checkout download
+        rm -r "Bulletins Templates"
+        cp -R "../output/*" "./*"
+        timestamp=$(cat "timestamp.txt")
+        git add .
+        git commit -m "${timestamp}"
+        git push
